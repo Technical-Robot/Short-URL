@@ -3,7 +3,7 @@
 ### [+] Disclaimer :
 ***Short Url is a tool to short url.This tool uses [TinyURL](https://tinyurl.com/)'s Api. It is created for Educational Purpose only.***
 
-<h1 align="center"> <img src="HxD-Editor.png" border="1"> </h1>
+<h1 align="center"> <img src="index.jpg" border="1"> </h1>
 
 ### [+] Installation
 ```apt update```
